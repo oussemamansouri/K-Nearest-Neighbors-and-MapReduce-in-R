@@ -71,3 +71,4 @@ install.packages(c("class", "ggplot2", "lattice"))
   - Boxplot of accuracy for the two methods.
   - Bar plot of accuracy comparison.
 
+Happy coding! 🎉
